@@ -15,7 +15,7 @@ export default function Home() {
           Jet Lagged
         </h1>
         <p className="text-xl text-white mb-6" style={{ fontFamily: "'Rubik', sans-serif" }}>
-          AI Game Inspired by Jet Lag: Hide <span className="text-gray-300">+</span> Seek
+          Game Inspired by Jet Lag: Hide <span className="text-gray-300">+</span> Seek
         </p>
         <button
           className="px-6 py-2 border border-white text-white text-sm hover:bg-white hover:text-black transition-colors duration-200"
